@@ -1,0 +1,9 @@
+py-tgcalls
+ffmpeg-python
+Pyrogram
+TgCrypto
+youtube_dl
+aiofiles
+aiohttp
+python-dotenv
+requests
